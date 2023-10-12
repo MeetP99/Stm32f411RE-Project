@@ -1,5 +1,6 @@
 The aim of this project was to configure the stm32f411re in order to interface it with various other devices.
 The devices that I have interfaced are as follows
+
 1.RGB led
 
 2.ADC for a potentiometer
